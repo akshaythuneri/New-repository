@@ -2,8 +2,5 @@ How are you man?
 
 Can we meet tommorow?
 
-<<<<<<< HEAD
 No i can't
-=======
 Yes we can
->>>>>>> feature
